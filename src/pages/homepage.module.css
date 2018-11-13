@@ -1,7 +1,9 @@
 .linkContainer {
     margin-top: 4.5em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+    margin: 0 auto;
+    width: 75%;
+    margin-top: 3.5em;
+    font-size: 1.4em;
 }
 
 @media (min-width: 28em) {
@@ -28,7 +30,7 @@
   outline: none;
   color: white;
   border: 0;
-  background-color: #57b; 
+  background-color: #195de6; 
   text-decoration: none;
   text-align: center;
   display: block;
@@ -37,10 +39,10 @@
   margin-bottom: 5px;
 }
 .link:hover {
-  background-color: #456ab6;
+  background-color: #1f4ead;
 }
 .link:active {
-  background-color: #148;
+  background-color: #153779;
 }
 
 @media (min-width: 28em) {
