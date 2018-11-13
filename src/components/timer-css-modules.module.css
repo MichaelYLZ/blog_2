@@ -1,0 +1,22 @@
+.container{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+p{
+    color: white;
+}
+
+p.letter{
+    color: black;
+    font-size: 9vw;
+    text-align: center;
+    margin: 0;
+}
+.hide{
+    background-color: white;
+    border: none;
+    outline: none;
+}
