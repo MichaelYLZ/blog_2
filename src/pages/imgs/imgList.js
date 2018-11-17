@@ -21,26 +21,49 @@ export default () => (
          </a>
       </div>
 
-      <div className={styles.down}>
+      <div className={styles.up}>
         <a className={styles.link} href='../OReillyBooks/'
         target='_blank'
         > 
         <strong>02</strong> 编程书籍封面-O'Reilly 动物王国系列01</a>
        </div>
     
-      <div className={styles.down}>
+      <div className={styles.up}>
         <a className={styles.link} href='../OReillyBooks02/'
         target='_blank'
         > 
         <strong>03</strong> 编程书籍封面-O'Reilly 动物王国系列02</a>
        </div>
     
-       <div className={styles.down}>
+       <div className={styles.up}>
         <a className={styles.link} href='../ManningBooks/'
         target='_blank'
         > 
         <strong>04</strong> 编程书籍封面-Manning 系列</a>
        </div>
+    
+        <div className={styles.down}>
+        
+        <a className={styles.link} 
+           href='../catPics/'
+           target='_blank'
+         >
+          <strong>05</strong>
+            猫咪照片集
+         </a>
+         </div>
+    
+          <div className={styles.up}>
+        
+            <a className={styles.link} 
+             href='../ef/'
+             target='_blank'
+             >
+             <strong>06</strong>
+            西餐厅兼职工作点滴
+         </a>
+         </div>
+    
       
 </nav>
 )
