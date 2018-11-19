@@ -5,6 +5,7 @@
     margin-top: 3.5em;
     font-size: 1.4em;
     padding-top: 1em;
+    max-width: 1280px;
 }
 
 @media (min-width: 28em) {

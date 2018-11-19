@@ -16,8 +16,7 @@ export default () => (
            href='../bestLooking/'
            target='_blank'
          >
-          <strong>01</strong>
-            编程书籍封面-高颜值系列
+          <strong>01</strong>-编程书籍封面-高颜值系列
          </a>
       </div>
 
@@ -25,21 +24,21 @@ export default () => (
         <a className={styles.link} href='../OReillyBooks/'
         target='_blank'
         > 
-        <strong>02</strong> 编程书籍封面-O'Reilly 动物王国系列01</a>
+        <strong>02</strong>-编程书籍封面-O'Reilly 动物王国系列01</a>
        </div>
     
       <div className={styles.up}>
         <a className={styles.link} href='../OReillyBooks02/'
         target='_blank'
         > 
-        <strong>03</strong> 编程书籍封面-O'Reilly 动物王国系列02</a>
+        <strong>03</strong>-编程书籍封面-O'Reilly 动物王国系列02</a>
        </div>
     
        <div className={styles.up}>
         <a className={styles.link} href='../ManningBooks/'
         target='_blank'
         > 
-        <strong>04</strong> 编程书籍封面-Manning 系列</a>
+        <strong>04</strong>-编程书籍封面-Manning 系列</a>
        </div>
     
         <div className={styles.down}>
@@ -48,8 +47,7 @@ export default () => (
            href='../catPics/'
            target='_blank'
          >
-          <strong>05</strong>
-            猫咪照片集
+          <strong>05</strong>-猫咪照片集
          </a>
          </div>
     
@@ -59,11 +57,20 @@ export default () => (
              href='../ef/'
              target='_blank'
              >
-             <strong>06</strong>
-            西餐厅兼职工作点滴
+             <strong>06</strong>-西餐厅兼职工作点滴
          </a>
          </div>
     
       
+           <div className={styles.down}>
+        
+            <a className={styles.link} 
+             href='../flbpics/'
+             target='_blank'
+             >
+             <strong>07</strong>
+             -2017菲律宾出差点滴
+            </a>
+           </div>
 </nav>
 )
