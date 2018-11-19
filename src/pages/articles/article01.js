@@ -37,7 +37,7 @@ export default () => (
     
     <h2 name="header01">不只react</h2>
     <div>
-    Gatsby是基于<span className={styles.code}>Node.js</span>做的一个免费应用。官网提供了节8课，完整的介绍了此应用。学习者顺着官网教材走的话，会遇到:
+    Gatsby是基于<span className={styles.code}>Node.js</span>做的一个免费应用。官网提供了8节课来完整的介绍此应用。学习者顺着官网教材走的话，会遇到:
     </div> 
     <ul>
     <li>ES6</li><li>GraphQL</li><li>markdown</li>
@@ -104,7 +104,7 @@ export default () => (
     </ul>
     
     <div>
-    体操作可点击这里
+    <a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank'>具体操作可点击这里</a>
     </div>
     
     <h2 name="header02">Gatsby使用体验</h2>
