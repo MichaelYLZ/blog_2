@@ -42,7 +42,6 @@ export default () => (
        </div>
     
         <div className={styles.down}>
-        
         <a className={styles.link} 
            href='../catPics/'
            target='_blank'
@@ -52,7 +51,6 @@ export default () => (
          </div>
     
           <div className={styles.up}>
-        
             <a className={styles.link} 
              href='../ef/'
              target='_blank'
@@ -63,7 +61,6 @@ export default () => (
     
       
            <div className={styles.down}>
-        
             <a className={styles.link} 
              href='../flbpics/'
              target='_blank'
@@ -72,5 +69,16 @@ export default () => (
              -2017菲律宾出差点滴
             </a>
            </div>
-</nav>
+    
+           <div className={styles.down}>
+            <a className={styles.link} 
+             href='../wuzimo/'
+             target='_blank'
+             >
+             <strong>08</strong>
+             -吴子墨小朋友
+            </a>
+            </div>
+    
+      </nav>
 )

@@ -47,7 +47,16 @@ export default () => (
            href='/../articles/article04/'
            target='_blank'
         >
-          <strong>04</strong> webpack 4 汇总
+          <strong>05</strong> webpack 4 汇总
+        </a>
+       </div>
+    
+     <div className={styles.up}>
+        <a className={styles.link} 
+           href='/../articles/article05/'
+           target='_blank'
+        >
+          <strong>06</strong> 学习Sass
         </a>
        </div>
     
