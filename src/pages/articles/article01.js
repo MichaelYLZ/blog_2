@@ -58,7 +58,7 @@ export default () => (
     </div>
     
      <div>
-    官网比较推荐<span className={styles.code}>CSS Module</span>和<span className={styles.code}>CSS in JS</span>。感觉这两个都应该是国外程序员圈子中比较新的实践。最近其实新出了好多<span className={styles.code}>CSS in JS</span>框架，<a href="https://www.styled-components.com" target='_blank'>Styled Components</a>应该算最热门的。
+    官网比较推荐<span className={styles.code}>CSS Module</span>和<span className={styles.code}>CSS in JS</span>。感觉这两个都应该是国外程序员圈子中比较新的实践。最近其实新出了好多<span className={styles.code}>CSS in JS</span>框架，<a href="https://www.styled-components.com" target='_blank' rel="noopener noreferrer">Styled Components</a>应该算最热门的。
     </div>
     <br/>
     
@@ -104,7 +104,7 @@ export default () => (
     </ul>
     
     <div>
-    <a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank'>具体操作可点击这里</a>
+    <a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank' rel="noopener noreferrer">具体操作可点击这里</a>
     </div>
     
     <h2 name="header02">Gatsby使用体验</h2>
@@ -114,7 +114,6 @@ export default () => (
     
      <div>
     Gatsby同时也跟Git，Github，Netlify这些服务无缝对接，上传文件或是做修改，都很方便。
-    </div>
-    
+    </div>  
     </article>
 )
