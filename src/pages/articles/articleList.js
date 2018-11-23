@@ -51,7 +51,7 @@ export default () => (
         </a>
        </div>
     
-     <div className={styles.up}>
+      <div className={styles.down}>
         <a className={styles.link} 
            href='/../articles/article05/'
            target='_blank'
@@ -60,6 +60,14 @@ export default () => (
         </a>
        </div>
     
+      <div className={styles.up}>
+        <a className={styles.link} 
+           href='/../articles/article06/'
+           target='_blank'
+        >
+          <strong>07</strong> 我的博客性能报告-未优化前
+        </a>
+       </div>
       
 </nav>
 )
