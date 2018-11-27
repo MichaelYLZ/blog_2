@@ -8,6 +8,11 @@ import pic46 from "./imgs/46.png"
 import pic47 from "./imgs/47.png"
 import pic48 from "./imgs/48.png"
 import pic59 from "./imgs/59.png"
+import pic60 from "./imgs/60.png"
+import pic61 from "./imgs/61.png"
+import pic62 from "./imgs/62.png"
+import pic63 from "./imgs/63.png"
+import pic64 from "./imgs/64.png"
 
 export default () => (
 	<article className={styles.container}>
@@ -146,6 +151,18 @@ There are six different types of variables you can use with Sass.
     </div>
     <br />
     
+    <br />
+    <div>
+    <img src={pic63} alt="语法demo" className={styles.img}/>
+    </div>
+    <br />
+    
+    <br />
+    <div>
+    <img src={pic64} alt="语法demo" className={styles.img}/>
+    </div>
+    <br />
+    
    <h2 name="header05">
     Nesting
     </h2>
@@ -228,11 +245,25 @@ There are six different types of variables you can use with Sass.
     如何然后文件夹中会多处一个合并后的CSS文件。
     </div>
     
+    <br />
     <div>
-    NEXT-601
+    <img src={pic60} alt="语法参考" className={styles.img}/>
     </div>
-    <br/>
+    <br />
     
+    <br />
+    <div>
+    注意点01<br />
+    <img src={pic61} alt="额外讲解01" className={styles.img}/>
+    </div>
+    <br />
+   
+    <br />
+    <div>
+    注意点02<br />
+    <img src={pic62} alt="额外讲解02" className={styles.img}/>
+    </div>
+    <br />
     
     <div className={styles.codeblock}>
     <pre className={styles.pre}>
