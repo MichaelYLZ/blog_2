@@ -40,7 +40,7 @@ import pic87 from "./imgs/87.png"
 import pic88 from "./imgs/88.png"
 
 export default () => (
-	<article className={styles.container}>
+    <article className={styles.container}>
     
     <h1 className={styles.h1}>
     webpack 4 汇总 01
@@ -844,56 +844,6 @@ Use optimization.splitChunks to create bundles of shared application code betwee
         
         
         
-        
-        
-        
-        
-    关键词0000
-    <span className={styles.code}></span>
-    
-    
-    图片
-    <br />
-    <div>
-    <img src={pic27} alt="Gatsby大量使用无状态组件" className={styles.img}/>
-    </div>
-    <br />
-    
-    
-    <br />
-    <div className={styles.codeblock}>
-    <pre className={styles.pre}>
-    <code>
-    npm run dev 
-    </code>
-    </pre>
-    </div> 
-    <br />
-    
-    
-    
-    <div>
-    正文
-    </div>
-    <br/>
-    
-    
-    可复制代码块01
-    <br/>
-    <div className={styles.codeblock}>
-    <pre className={styles.pre}>
-    <code data-lang="javascript">
-    import ApolloClient from 'apollo-boost';
-    </code>
-    </pre>
-    </div> 
-    
-    
-	<div>
-    正文
-    </div>
-    <br/>
-   
-   
+     
     </article>
 )
