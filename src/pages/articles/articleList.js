@@ -77,6 +77,15 @@ export default () => (
           <strong>08</strong> webpack 4 汇总 02
         </a>
        </div>
+    
+     <div className={styles.up}>
+        <a className={styles.link} 
+           href='/../articles/article08/'
+           target='_blank'
+        >
+          <strong>09</strong> 安利一个webpack 4 学习网站
+        </a>
+       </div>
       
 </nav>
 )
