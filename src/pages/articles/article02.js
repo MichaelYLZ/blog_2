@@ -6,7 +6,7 @@ import pic10 from "./imgs/10.png"
 import pic11 from "./imgs/11.png"
 
 export default () => (
-	<article className={styles.container}>
+    <article className={styles.container}>
     
     <h1 className={styles.h1}>
     webpack4初体验
@@ -17,6 +17,15 @@ export default () => (
     </div>
     
     <div>
+     2018-11-30更新<br/>
+    这几天跟着webpack官网，还有我第九篇博客推荐的网站学习，回过头想想，还是这里的资源最适合0基础学习webpack。<br/>
+    这个网站，在讲解一开始，就旗帜鲜明的提到 webapck 4 不需要配置文件的特点，以及基于此特点的代码demo。<br/><br/>
+    这样，就可以很直观，很具体的了解webpack 最本质功能，最基本流程。
+    <br/><br/>
+    有时候看那些教材，看了一下午，觉得头好晕。<br/>
+    但是一旦联系上无配置状态下，webpack 工作流程，思路又来了。
+    
+    2018-11-30更新结束<br/><br/>
     <span className={styles.code}>webpack</span>绝对是当代前端的大热门技术。之前一直忙着博客，需要找素材，搜集照片，对照片简单处理，写样式。因为对<span className={styles.code}>GraphQL</span>很感兴趣，也花了点时间学习了前端GraphQL的语法。这几天要开始学习webpack了。
     </div>
     <br/>

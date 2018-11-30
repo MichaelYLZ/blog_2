@@ -70,7 +70,7 @@ export default () => (
             </a>
            </div>
     
-           <div className={styles.down}>
+           <div className={styles.up}>
             <a className={styles.link} 
              href='../wuzimo/'
              target='_blank'
