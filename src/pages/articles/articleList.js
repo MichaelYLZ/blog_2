@@ -47,7 +47,7 @@ export default () => (
            href='/../articles/article04/'
            target='_blank'
         >
-          <strong>05</strong> webpack 4 汇总 01
+          <strong>05</strong> webpack-loader运行顺序及写法
         </a>
        </div>
     
@@ -87,6 +87,23 @@ export default () => (
         </a>
        </div>
     
+      <div className={styles.down}>
+        <a className={styles.link} 
+           href='/../articles/article09/'
+           target='_blank'
+        >
+          <strong>10</strong> webpack 4 官网摘抄01
+        </a>
+       </div>
+    
+      <div className={styles.up}>
+        <a className={styles.link} 
+           href='/../articles/article10/'
+           target='_blank'
+        >
+          <strong>11</strong> webpack 4 官网摘抄02
+        </a>
+       </div>
     
       
 </nav>

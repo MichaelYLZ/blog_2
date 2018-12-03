@@ -13,7 +13,7 @@ const NavLinks = () => (
           相册
     </a>
     
-    <a href='/no/' className={styles.link}>
+    <a href='/../articles/self/' className={styles.link}>
           关于博主
     </a>
     
