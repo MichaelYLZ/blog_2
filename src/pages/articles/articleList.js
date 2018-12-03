@@ -39,7 +39,7 @@ export default () => (
         <a className={styles.link} href='/../articles/article03/'
         target='_blank'
        > 
-       <strong>04</strong> webpack 4 VS 正则</a>
+       <strong>04</strong> 推荐一个webpack 配置文件模板</a>
        </div>
     
      <div className={styles.up}>

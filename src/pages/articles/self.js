@@ -19,7 +19,10 @@ export default () => (
     </div>
     
     <div>
-    本篇简要介绍下我的编程学习之路和之前的翻译工作经历。
+    本篇简要介绍下我的编程学习之路和之前的翻译工作经历。<br /><br />
+    
+    <strong>本人联系方式：</strong><br/>
+    liyang_shifan@163.com
     </div>
     <br/>
     
