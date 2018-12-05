@@ -74,7 +74,7 @@ export default () => (
            href='/../articles/article07/'
            target='_blank'
         >
-          <strong>08</strong> webpack 4 汇总 02
+          <strong>08</strong> 介绍 webpack.config.babel.js
         </a>
        </div>
     

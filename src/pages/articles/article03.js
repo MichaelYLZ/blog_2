@@ -25,8 +25,7 @@ export default () => (
     <div>
     <span className={styles.code}>Webpack 4</span>默认是不需要配置文件的。<br/>
     但是，没有配置文件的话，功能会相当有限，可扩展性差。<br/>
-    所以，能够很合理得安排，使用，维护配置文件，是很重要的技能。<br/>
-    受官网和其他一些网站启发，我觉得这样写webapck 配置文件最好。<br/>
+    受官网和另一个技术博客启发，我发现一个很棒的webapck 配置文件模板。<br/>
     <br/>
      <i>本文使用最新版webpack。<br/>
     本文默认已经安装好Node.js,webpack,webpack-cli。</i>

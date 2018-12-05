@@ -17,7 +17,7 @@ const NavLinks = () => (
           关于博主
     </a>
     
-    <a href='/no/' className={styles.link}>
+    <a href='/../articles/about/' className={styles.link}>
           关于本站
     </a>
   </nav>
