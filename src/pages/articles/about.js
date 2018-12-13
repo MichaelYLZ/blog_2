@@ -1,12 +1,8 @@
 import React from "react"
 import styles from "./article01.js.module.css"
-import pic01 from "./imgs/01.png"
-
-
-
 
 export default () => (
-	<article className={styles.container}>
+    <article className={styles.container}>
     
     <h1 className={styles.h1}>
     关于本站
@@ -17,9 +13,6 @@ export default () => (
     </div>
     
     <div>
-    从11上半旬开始准备工作。
-    <br/><br/>搜集素材，看看一些其他个人博客，对照片进行简单处理，写CSS样式。<br/>
-    前前后后大概花了一周时间。<br/><br/>
     以下介绍本站上线流程和简要介绍用到的一些服务。
     </div>
     <br/>
@@ -74,16 +67,17 @@ export default () => (
     从这步操作开始，包括此步骤，建议在可以访问Google环境下进行。
     <br/>
     <strong>第五步</strong><br/>
-    用你的Github 账号，登陆Netlify。<br/>
+    用你的Github 账号来登陆Netlify。<br/>
     将Github 新创立的仓库与Netlify相关联。<br/>
-    关联一个Github 仓库，是没有费用的。<br/>
-    Netlify需要十分钟样子，来处理Github 仓库。<br/>
-    最后会生成一个网址，以<span className={styles.code}>netlify.com</span>结尾。<br/>
-    netlify.com之前的网址部分，是netlify自动生成，可以修改的。<br/>
+    Netlify需要十分钟样子，自动编译并生成静态网站。<br/>  
+    生成的静态网站以<span className={styles.code}>netlify.com</span>结尾。<br/>
+    如果你有自己域名，也可以绑定自己域名。 
+    <br/>
+    netlify.com之前的网址部分，是netlify系统自动生成，可以修改的。<br/>
     用你的浏览器，或邀请你朋友，去访问这个网址。<br/>
     <strong>第六步</strong><br/>
     这样虽然上线，但是页面仍然太简单。<br/> 
-    在本地Gatsby文件夹，继续修改，添加样式或照片都可以，没有流量限制。<br/>
+    在本地Gatsby文件夹，继续修改，添加样式或照片都可以，<strong>没有流量限制</strong>。<br/>
     改好以后，<strong>只需</strong>操作以下Git 代码来更新在线Github仓库，网站会一分钟之内更新:
     </div>
     <br/>
@@ -104,47 +98,39 @@ export default () => (
     <br/>
         
     <h2 name="header03">03-Netlify 简介</h2>
-    
-    00000000
-    关键词
-    <span className={styles.code}>Gatsby</span>
-    
-    图片
-    <br />
+
     <div>
-    <img src={pic01} alt="Gatsby大量使用无状态组件" className={styles.img}/>
-    </div>
-    <br />
+    专门介绍Netlify是因为这家公司大有来头，但是国内对这家公司讨论得不是很多。百度上面可以找到一些关于Netlify的介绍，知乎上面讨论的很少。
     
-    可复制代码块01
-    
-    <div className={styles.codeblock}>
-    <pre className={styles.pre}>
-    <code data-lang="javascript">
-    import ApolloClient from 'apollo-boost';
-    </code>
-    </pre>
-    </div> 
-    
-    
-	<div>
-    正文
     </div>
     <br/>
-    
-    文章小节链接--需修改
-    <ol>
-    <a href="#header01">
-    <li>不只react</li>
-    </a>
-    <a href="#header02">
-    <li>Gatsby使用体验</li>
-    </a>
-    </ol>
-    
-    链接
-    
-    <a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank' rel="noopener noreferrer">具体操作可点击这里</a>
+    <div>
+    我们先来看一下有哪些公司用他们的服务：
+    </div>
+   
+
+    <ul>
+    <li>Google</li>
+    <li>Facebook</li>
+    <li>Verizon</li> 
+    <li><strong>Vue.js</strong></li>
+    <li>Samsung</li>
+    <li>Cisco</li>
+    <li>Lodash</li>
+    <li>Smashing Magazine</li>
+    <li>NBC</li>
+    </ul>
+
+    <div>
+    大家一定看到了一个中国程序员很熟悉的公司。
+    </div>
+    <br/>
+
+    <div>
+    Netlify公司总部在美国加州的旧金山。公司成立于2014年。Netlify提供的主要服务是hosting/网页寄存和无服务器的静态网站托管。Netlify提供收费版服务和免费版服务。国内访问速度很快。Netlify完美支持ssl、域名绑定、http/2和TLS。希望国内有更多的人认识这家公司。
+    </div>
+    <br/>
+        
    
     </article>
 )

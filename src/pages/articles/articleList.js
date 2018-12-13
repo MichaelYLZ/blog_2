@@ -15,7 +15,7 @@ export default () => (
            href='/../articles/article00/'
            target='_blank'
         >
-          <strong>01</strong> JS 那些事儿
+          <strong>01</strong> GitHub demo代码链接
         </a>
       </div>
 
@@ -83,7 +83,7 @@ export default () => (
            href='/../articles/article08/'
            target='_blank'
         >
-          <strong>09</strong> 安利一个webpack 4 学习网站
+          <strong>09</strong> 解释 [hash]-[chunkhash]-[contenthash]
         </a>
        </div>
     
