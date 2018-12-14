@@ -80,5 +80,14 @@ export default () => (
             </a>
             </div>
     
+          <div className={styles.down}>
+          <a className={styles.link} 
+           href='../catPicture/'
+           target='_blank'
+         >
+          <strong>09</strong>-一张照片
+         </a>
+         </div>
+    
       </nav>
 )
