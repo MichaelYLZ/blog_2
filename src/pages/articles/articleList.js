@@ -15,7 +15,7 @@ export default () => (
            href='/../articles/article00/'
            target='_blank'
         >
-          <strong>01</strong> demo代码 GitHub链接
+          <strong>01</strong> GitHub Demo代码汇总+常用网站链接
         </a>
       </div>
 
