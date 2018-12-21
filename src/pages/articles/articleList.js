@@ -23,7 +23,7 @@ export default () => (
         <a className={styles.link} href='/../articles/article01/'
         target='_blank'
        > 
-       <strong>02</strong> Gatsby简介</a>
+       <strong>02</strong> 我的小型全栈APP介绍</a>
        </div>
     
       <div className={styles.up}>

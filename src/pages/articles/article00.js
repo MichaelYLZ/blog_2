@@ -97,6 +97,35 @@ export default () => (
     <a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank' rel="noopener noreferrer">netlify</a>
     </li>
     
+    <li>
+    <a href='https://github.com/MichaelYLZ/About_IIFE' target='_blank' rel="noopener noreferrer">关于IIFE</a>
+    </li>
+    
+    <li>
+    <a href='https://www.favicon-generator.org/' target='_blank' rel="noopener noreferrer">
+    自动生成网站Favicon.ico神器
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch' target='_blank' rel="noopener noreferrer">
+    fetch MDN讲解
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://css-tricks.com/using-fetch/' target='_blank' rel="noopener noreferrer">
+    fetch 学习资料
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://jsonplaceholder.typicode.com/' target='_blank' rel="noopener noreferrer">
+    fetch 实战资源--JSONPlaceholder
+    </a>
+    </li>
+    
+    
     </ol>
     
     <h1 name="header04">
