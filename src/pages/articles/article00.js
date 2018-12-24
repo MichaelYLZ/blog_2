@@ -127,13 +127,19 @@ export default () => (
     
     <li>
     <a href='https://www.hostingadvice.com/how-to/nodejs__dirname/' target='_blank' rel="noopener noreferrer">
-    Node Path 讲解01
+    原生Node Path 讲解01
     </a>
     </li>
     
     <li>
     <a href='https://flaviocopes.com/node-module-path/' target='_blank' rel="noopener noreferrer">
-    Node Path 讲解02
+    原生Node Path 讲解02
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://tylermcginnis.com/blog' target='_blank' rel="noopener noreferrer">
+    不错的JS-React 博客讲解
     </a>
     </li>
     
@@ -186,6 +192,12 @@ export default () => (
     <li>
     <a href='https://github.com/MichaelYLZ/app_all_code' target='_blank' rel="noopener noreferrer">
     一句话APP React+Express+数据库(JSON文件)--全部代码(非应用版)
+    </a>
+    </li>
+
+    <li>
+    <a href='https://github.com/MichaelYLZ/axios_practise' target='_blank' rel="noopener noreferrer">
+    练习Axios HTTP请求
     </a>
     </li>
     

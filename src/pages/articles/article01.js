@@ -17,7 +17,7 @@ export default () => (
     </div>
     
     <div>
-    这篇博客是对最近自己写的一个小型全栈APP，前前后后的一些总结，介绍。<a href='https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/' target='_blank' rel="noopener noreferrer">相关代码链接请点击这里</a>
+    这篇博客是对最近自己写的一个小型全栈APP，前前后后的一些总结，介绍。<a href='https://liyangfromgaoyou.netlify.com/articles/article00/#header04' target='_blank' rel="noopener noreferrer">相关代码链接请点击这里</a>
     </div>
     <br/>
     
