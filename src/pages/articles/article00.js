@@ -139,7 +139,31 @@ export default () => (
     
     <li>
     <a href='https://tylermcginnis.com/blog' target='_blank' rel="noopener noreferrer">
-    不错的JS-React 博客讲解
+    不错的JS-React 讲解博客
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://github.com/axios/axios' target='_blank' rel="noopener noreferrer">
+    axios讲解 github主页
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://flaviocopes.com/axios/' target='_blank' rel="noopener noreferrer">
+    axios 资料02
+    </a>
+    </li>
+    
+    <li>
+    <a href='http://codeheaven.io/how-to-use-axios-as-your-http-client/' target='_blank' rel="noopener noreferrer">
+    axios 资料03
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://www.sitepoint.com/axios-beginner-guide/' target='_blank' rel="noopener noreferrer">
+    axios 资料04 sitepoint
     </a>
     </li>
     
