@@ -1,9 +1,5 @@
 import React from "react"
 import styles from "./article01.js.module.css"
-import pic01 from "./imgs/01.png"
-
-
-
 
 export default () => (
 	<article className={styles.container}>
