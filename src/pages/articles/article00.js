@@ -193,6 +193,17 @@ export default () => (
     </a>
     </li>
     
+    <li>
+    <a href='https://coursework.vschool.io/mongoose-schemas/' target='_blank' rel="noopener noreferrer">
+    数据库-Mongoose讲解Schema
+    </a>
+    </li>
+
+    <li>
+    <a href='https://coursework.vschool.io/mongoose-crud/' target='_blank' rel="noopener noreferrer">
+    数据库-Mongoose讲解CRUD
+    </a>
+    </li>
     
     </ol>
     
