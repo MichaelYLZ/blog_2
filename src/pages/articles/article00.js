@@ -85,6 +85,10 @@ export default () => (
     <ol>
     
     <li>
+    <a href='https://hackerthemes.com/bootstrap-cheatsheet/' target='_blank' rel="noopener noreferrer">bootstrap 4 class合集</a>
+    </li>
+    
+    <li>
     <a href='https://www.markdownguide.org/basic-syntax' target='_blank' rel="noopener noreferrer">这个网站</a> <span className={styles.code}>markdown</span>讲得不错
     </li>
     
@@ -202,6 +206,24 @@ export default () => (
     <li>
     <a href='https://coursework.vschool.io/mongoose-crud/' target='_blank' rel="noopener noreferrer">
     数据库-Mongoose讲解CRUD
+    </a>
+    </li>
+
+    <li>
+    <a href='https://www.codecademy.com/articles/what-is-rest' target='_blank' rel="noopener noreferrer">
+    HTTP 基础知识讲解-01
+    </a>
+    </li>
+
+    <li>
+    <a href='https://www.codecademy.com/articles/http-requests' target='_blank' rel="noopener noreferrer">
+    HTTP 基础知识讲解-02
+    </a>
+    </li>
+
+    <li>
+    <a href='https://www.codecademy.com/articles/what-is-crud' target='_blank' rel="noopener noreferrer">
+    HTTP 基础知识讲解-03
     </a>
     </li>
     
