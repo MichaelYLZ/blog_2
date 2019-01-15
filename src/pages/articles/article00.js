@@ -23,7 +23,7 @@ export default () => (
     <li>常用网站链接</li>
     </a>
      <a href="#header04">
-    <li>React 相关</li>
+    <li>React和Redux 相关</li>
     </a>
     </ol>
     
@@ -234,7 +234,12 @@ export default () => (
     </h1>
     
     <ol>
-    
+    <li>
+    <a href='https://github.com/MichaelYLZ/redux_src_code' target='_blank' rel="noopener noreferrer">
+    Redux 相关源码
+    </a>
+    </li>
+
     <li>
     <a href='https://github.com/MichaelYLZ/simple_react_fetch' target='_blank' rel="noopener noreferrer">
     简单React fetch GET请求
