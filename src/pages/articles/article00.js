@@ -236,7 +236,7 @@ export default () => (
     <ol>
     <li>
     <a href='https://github.com/MichaelYLZ/redux_src_code' target='_blank' rel="noopener noreferrer">
-    Redux 相关源码
+    createStore_combineReducers_connect 相关源码
     </a>
     </li>
 
