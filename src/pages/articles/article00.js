@@ -120,6 +120,18 @@ export default () => (
     </li>
     
     <li>
+    <a href='https://patrickdesjardins.com/blog/dissecting-the-store-enhancer-of-redux' target='_blank' rel="noopener noreferrer">
+    加拿大-魁北克的一个程序员博客
+    </a>
+    </li>
+    
+    <li>
+    <a href='https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0' target='_blank' rel="noopener noreferrer">
+    Eric Elliott 讲JS
+    </a>
+    </li>
+    
+    <li>
     <a href='https://jsonplaceholder.typicode.com/' target='_blank' rel="noopener noreferrer">
     fetch 实战资源--JSONPlaceholder
     </a>
