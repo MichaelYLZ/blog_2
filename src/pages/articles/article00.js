@@ -131,6 +131,12 @@ export default () => (
     </a>
     </li>
     
+     <li>
+    <a href='http://blog.krawaller.se/' target='_blank' rel="noopener noreferrer">
+    一个瑞典人博客 讲React和TypeScript比较多
+    </a>
+    </li>
+    
     <li>
     <a href='https://jsonplaceholder.typicode.com/' target='_blank' rel="noopener noreferrer">
     fetch 实战资源--JSONPlaceholder
@@ -236,6 +242,30 @@ export default () => (
     <li>
     <a href='https://www.codecademy.com/articles/what-is-crud' target='_blank' rel="noopener noreferrer">
     HTTP 基础知识讲解-03
+    </a>
+    </li>
+
+    <li>
+    <a href='https://dev.to/sidthesloth92/understanding-html-form-encoding-url-encoded-and-multipart-forms-3lpa' target='_blank' rel="noopener noreferrer">
+    HTML enctype讲解01
+    </a>
+    </li>
+
+    <li>
+    <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data' target='_blank' rel="noopener noreferrer">
+    HTML enctype讲解02 MDN
+    </a>
+    </li>
+
+    <li>
+    <a href='https://johnnycode.com/2013/10/30/the-differences-between-html-form-content-types-enctype/' target='_blank' rel="noopener noreferrer">
+    HTML enctype讲解03 Stack Overflow程序员
+    </a>
+    </li>
+
+    <li>
+    <a href='https://jscomplete.com/' target='_blank' rel="noopener noreferrer">
+    不错的网站-但是收费
     </a>
     </li>
     
