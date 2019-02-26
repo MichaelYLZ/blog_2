@@ -131,6 +131,12 @@ export default () => (
     </a>
     </li>
     
+    <li>
+    <a href='https://javascriptplayground.com/' target='_blank' rel="noopener noreferrer">
+    React讲解学习资源-英国伦敦程序员
+    </a>
+    </li>
+    
      <li>
     <a href='http://blog.krawaller.se/' target='_blank' rel="noopener noreferrer">
     一个瑞典人博客 讲React和TypeScript比较多
