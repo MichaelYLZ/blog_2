@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^2.0.33",
-    "gatsby-cli": "^2.4.5",
+    "gatsby-cli": "^2.4.12",
     "react": "^16.5.1",
     "react-animated-slider": "^1.1.4",
     "react-dom": "^16.5.1"
