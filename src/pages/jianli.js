@@ -26,7 +26,7 @@ export default () => (
     </h2>
                                
     <p className="data">
-    Web前端<br /><br />
+    前端/全栈<br /><br />
     希望加入使用<code>React</code>和<code>Redux</code>技术栈的团队。
     </p>
     
