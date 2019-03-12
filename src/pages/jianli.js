@@ -15,8 +15,7 @@ export default () => (
     28周岁<br />
     本科/学士学位<br />
     来自江苏高邮<br />
-    现住南京<br />
-    可以随时到岗<br />
+    随时到岗<br />
     177-1289-6753 <br />liyang_shifan@163.com
     <br />
     <a href='https://liyang2019.netlify.com/' className="link" target='_blank'>个人博客</a>
@@ -29,8 +28,6 @@ export default () => (
     <p className="data">
     Web前端<br /><br />
     希望加入使用<code>React</code>和<code>Redux</code>技术栈的团队。
-    <br /><br />
-    期待月薪：4k-5k
     </p>
     
     <h2 className="head extra">
