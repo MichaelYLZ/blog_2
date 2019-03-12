@@ -1,9 +1,6 @@
 import React from "react"
 import "./cssForCV.css"
 
-
-
-
 export default () => (
   <article>
     <h1 className="welcome">

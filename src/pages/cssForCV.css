@@ -1,7 +1,15 @@
+.welcome {
+    text-align: center;
+}
+
+div,
+p {
+    font-size: 1.4rem;
+}
 
 @media (min-width: 550px) {
     article {
-        width: 80%;
+        width: 85%;
         margin: 0 auto;
     }
 }
