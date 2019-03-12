@@ -35,7 +35,11 @@ export default () => (
     </h2>
                                
     <p className="data">
-    无障碍阅读英文技术博客/文档<br /><br />
+    <code>热爱</code>编程技术<br /><br />
+    
+    <code>无障碍</code>阅读英文技术博客/文档<br /><br />
+    
+    <code>无障碍</code>同英语母语人士沟通<br /><br />
     
     理解<code>代码可读性</code>重要性<br /><br />
     
