@@ -26,7 +26,7 @@ export default () => (
     </h2>
                                
     <p className="data">
-    前端/全栈<br /><br />
+    前端<br /><br />
     希望加入使用<code>React</code>和<code>Redux</code>技术栈的团队。
     </p>
     
@@ -38,9 +38,7 @@ export default () => (
     <code>热爱</code>编程技术<br /><br />
     
     <code>无障碍</code>阅读英文技术博客/文档<br /><br />
-    
-    <code>无障碍</code>同英语母语人士沟通<br /><br />
-    
+        
     理解<code>代码可读性</code>重要性<br /><br />
     
     对<code>原生JavaScript</code>有很好的理解，熟练使用 <code>ES6</code><br /><br />

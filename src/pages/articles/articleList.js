@@ -1,8 +1,6 @@
 import React from "react"
 import styles from './articleList.module.css'
 
-
-
 export default () => (
   <nav>
       <a className={styles.back} href='/'>
@@ -19,7 +17,7 @@ export default () => (
         </a>
       </div>
     
-     <div className={styles.up}>
+     <div className={styles.down}>
         <a className={styles.link} 
            href='/../articles/article11/'
            target='_blank'
@@ -28,19 +26,12 @@ export default () => (
         </a>
      </div>
     
-     <div className={styles.down}>
-        <a className={styles.link} href='/../articles/article03/'
-        target='_blank'
-       > 
-       <strong>04</strong> 推荐一个webpack 配置文件模板</a>
-       </div>
-    
      <div className={styles.up}>
         <a className={styles.link} 
            href='/../articles/article04/'
            target='_blank'
         >
-          <strong>05</strong> webpack-loader运行顺序及写法
+          <strong>03</strong> webpack-loader运行顺序及写法
         </a>
        </div>
     
@@ -49,66 +40,57 @@ export default () => (
            href='/../articles/article05/'
            target='_blank'
         >
-          <strong>06</strong> 学习Sass
-        </a>
-       </div>
-    
-      <div className={styles.up}>
-        <a className={styles.link} 
-           href='/../articles/article06/'
-           target='_blank'
-        >
-          <strong>07</strong> 我的博客性能报告-未优化前
-        </a>
-       </div>
-    
-     <div className={styles.down}>
-        <a className={styles.link} 
-           href='/../articles/article07/'
-           target='_blank'
-        >
-          <strong>08</strong> 介绍 webpack.config.babel.js
+          <strong>04</strong> 学习Sass
         </a>
        </div>
     
      <div className={styles.up}>
         <a className={styles.link} 
-           href='/../articles/article08/'
+           href='/../articles/article07/'
            target='_blank'
         >
-          <strong>09</strong> 解释 [hash]-[chunkhash]-[contenthash]
-        </a>
-       </div>
-    
-      <div className={styles.down}>
-        <a className={styles.link} href='/../articles/article01/'
-        target='_blank'
-       > 
-       <strong>10</strong> 我的全栈React + Express APP介绍</a>
-       </div>
-    
-      <div className={styles.up}>
-        <a className={styles.link} 
-           href='/../articles/article02/'
-           target='_blank'
-        >
-          <strong>11</strong> 前后端交互的实践与小结
+          <strong>05</strong> 介绍 webpack.config.babel.js
         </a>
        </div>
     
      <div className={styles.down}>
+        <a className={styles.link} 
+           href='/../articles/article08/'
+           target='_blank'
+        >
+          <strong>06</strong> 解释 [hash]-[chunkhash]-[contenthash]
+        </a>
+       </div>
+    
+      <div className={styles.up}>
+        <a className={styles.link} href='/../articles/article01/'
+        target='_blank'
+       > 
+       <strong>07</strong> 我的全栈React + Express APP介绍</a>
+       </div>
+    
+      <div className={styles.down}>
+        <a className={styles.link} 
+           href='/../articles/article02/'
+           target='_blank'
+        >
+          <strong>08</strong> 前后端交互的实践与小结
+        </a>
+       </div>
+    
+     <div className={styles.up}>
         <a className={styles.link} href='/../articles/article09/'
         target='_blank'
        > 
-       <strong>12</strong> webpack官网摘抄 01</a>
+       <strong>09</strong> webpack官网摘抄 01</a>
      </div>
     
-    <div className={styles.up}>
+    <div className={styles.down}>
         <a className={styles.link} 
            href='/../articles/article10/'
            target='_blank'
         >
-          <strong>13</strong> webpack官网摘抄 02
+          <strong>10</strong> webpack官网摘抄 02
         </a>
     </div>
       
