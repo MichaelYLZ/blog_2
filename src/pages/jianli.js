@@ -27,8 +27,7 @@ export default () => (
     </h2>
                                
     <p className="data">
-    前端<br /><br />
-    希望加入使用<code>React</code>和<code>Redux</code>技术栈的团队。
+    前端
     </p>
     
     <h2 className="head extra">
