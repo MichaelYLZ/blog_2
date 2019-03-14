@@ -18,7 +18,8 @@ export default () => (
     随时到岗<br />
     177-1289-6753 <br />liyang_shifan@163.com
     <br />
-    <a href='https://liyang2019.netlify.com/' className="link" target='_blank'>个人博客</a>
+    <a href='https://liyang2019.netlify.com/' className="link" target='_blank'>React个人博客</a><br />
+    <code>接受一个月的无薪实习</code><br />
     </p>
     
     <h2 className="head extra">
@@ -37,23 +38,27 @@ export default () => (
     <p className="data">
     <code>热爱</code>编程技术<br /><br />
     
-    <code>无障碍</code>阅读英文技术博客/文档<br /><br />
+    <code>无障碍阅读</code>英文技术博客/文档<br /><br />
         
     理解<code>代码可读性</code>重要性<br /><br />
     
-    对<code>原生JavaScript</code>有很好的理解，熟练使用 <code>ES6</code><br /><br />
+    <strong>前端</strong><br /><br />
+    
+    扎实的<code>原生JavaScript</code>基本功，熟练使用 <code>ES6</code><br /><br />
     
     熟悉原生<code>Ajax</code>，熟练使用<code>Axios</code><br /><br />
     
     熟练使用<code>React</code><br /><br />
     
-    熟悉<code>Redux</code>，<code>react-redux</code>核心API源码<br /><br />
-    我自己整理了<a href='https://github.com/MichaelYLZ/redux_src_code' className="link" target='_blank'>一套demo</a>，分别使用Redux和react-redux核心API源码，结合DOM，实现一些简单效果，从而可以更好理解Redux，react-redux<br /><br />
     
     掌握<code>Webpack 4</code>的使用，会打包构建基于react框架的web前端应用，熟悉常见loader和plugin<br /><br />
     
+    <strong>后端</strong><br /><br />
     
-    可以用<code>Express</code>框架搭配<code>MongoDB</code>实现<code>CRUD</code>功能<br /><br />
+    
+    熟悉<code>Node</code>和<code>Express</code>，可以用<code>Express</code>框架搭配<code>MongoDB</code>实现<code>CRUD</code>功能<br /><br />
+    
+    因为可以实现基础的后端功能，所以对<code>前后端交互</code>有比较好的理解<br /><br />
     
     熟悉<code>SQL</code>基础语句，熟悉<code>MySQL</code>基础命令行操作
     </p>
