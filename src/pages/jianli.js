@@ -17,7 +17,6 @@ export default () => (
     <p className="intro data">
     本科/学士学位<br />
     来自江苏高邮<br />
-    现住南京<br />
     可以随时到岗<br />
     177-1289-6753 <br />liyang_shifan@163.com
     <br />
