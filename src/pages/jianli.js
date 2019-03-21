@@ -36,13 +36,27 @@ export default () => (
     </h2>
                                
     <p className="data">
+    热爱IT行业<br /><br />
+    
     无障碍阅读英文技术博客/文档<br /><br />
     
+    每天都使用<code>谷歌</code>，搜索阅读一些技术文档<br /><br />
+    
+    理解<code>笔记</code>重要性，有<code>做笔记</code>的习惯<br /><br />
+    
     理解<code>代码可读性</code>重要性<br /><br />
+    
+    愿意了解，学习<code>Linux</code>和<code>Linux 命令行</code><br /><br />
+    
+    愿意了解，学习<code>Angular</code>以及<code>TypeScript</code>，<code>RxJS</code><br /><br />
+    
+    理解性能的重要性，愿意持续学习和整理<code>如何提高应用性能</code><br /><br />
     
     <strong>前端</strong><br /><br />
     
     对<code>原生JavaScript</code>有很好的理解，熟练使用 <code>ES6</code><br /><br />
+    
+    对原生<code>DOM API</code>，<code>BOM API</code>有很好的理解<br /><br />
     
     熟练使用<code>React</code><br /><br />
     
