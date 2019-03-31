@@ -7,6 +7,16 @@ export default () => (
         &#10094;&#10094;
       </a>
       <h2>文章目录</h2>
+    
+    <div className={styles.down}>
+        <a className={styles.link} 
+           href='/../articles/article12/'
+           target='_blank'
+        >
+          <strong>00</strong> WebAssembly_资料/工具_链接
+        </a>
+     </div>
+      
 
       <div className={styles.up}>
         <a className={styles.link} 
