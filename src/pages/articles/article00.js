@@ -34,6 +34,20 @@ export default () => (
     <ol>
     
     <li>
+    前端性能 <a href='https://jsperf.com/' target='_blank' rel="noopener noreferrer">jsperf</a> 
+    </li>
+    
+    <li>
+    JS性能 <a href='http://www.breck-mckye.com/blog/2014/08/using-jsperf-a-how-to-guide' target='_blank' rel="noopener noreferrer">jsperf 讲解01</a> 
+    </li>
+    
+    <li>
+    JS性能 <a href='https://insertafter.com/en/blog/jsperf_use_with_caution.html' target='_blank' rel="noopener noreferrer">jsperf 讲解02</a> 
+    </li>
+    
+   
+    
+    <li>
     读取文件之 <a href='https://github.com/MichaelYLZ/-readFileSync' target='_blank' rel="noopener noreferrer">readFileSync</a> 
     </li>
     
